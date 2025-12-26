@@ -134,7 +134,7 @@ To build a **domain-specific sentiment analysis system** that:
 ---
  🌐 Live Demo
 
-🔗 Streamlit Application
+Streamlit Application
 https://nigeriawiki-32vbvf2bapprnpuktfqqphj.streamlit.app/
 ---
 
