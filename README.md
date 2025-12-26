@@ -130,13 +130,9 @@ To build a **domain-specific sentiment analysis system** that:
 - Applies machine learning techniques to real-world textual data  
 - Compares ML-based predictions with rule-based sentiment analysis  
 - Provides clear, visual, and interpretable results through an interactive UI  
+## 🌐 Live Demo
+🔗 **Streamlit App:** https://nigeriawiki-32vbvf2bapprnpuktfqqphj.streamlit.app/
 
----
- 🌐 Live Demo
-
-Streamlit Application
-https://nigeriawiki-32vbvf2bapprnpuktfqqphj.streamlit.app/
----
 
 ## 👨‍💻 Author
 
