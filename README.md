@@ -132,6 +132,11 @@ To build a **domain-specific sentiment analysis system** that:
 - Provides clear, visual, and interpretable results through an interactive UI  
 
 ---
+## 🌐 Live Demo
+
+🔗 Streamlit Application
+https://nigeriawiki-32vbvf2bapprnpuktfqqphj.streamlit.app/
+---
 
 ## 👨‍💻 Author
 
